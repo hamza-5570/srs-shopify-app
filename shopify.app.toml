@@ -2,7 +2,7 @@
 
 client_id = "96be6b327acf425fe48285b04b5e797f"
 name = "srs-app"
-application_url = "https://example.com"
+application_url = "https://srs-shopify-app.onrender.com"
 embedded = true
 
 [build]
